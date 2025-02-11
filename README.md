@@ -1,11 +1,12 @@
 ![Alt text](1.png)
-![Alt text](2.png)
 
 # **WinForms Login & Registration with SQL Database**
 
 Welcome to the **WinForms-LoginReg-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** with **user authentication** using an **SQL database**.
 
 ---
+
+![Alt text](2.png)
 
 ## **📂 Folder Structure**  
 
@@ -14,7 +15,6 @@ WinForms-LoginReg-SQL/
 ├── LoginForm/            # Windows Forms login UI
 ├── RegistrationForm/      # User registration UI
 ├── Database/             # SQL scripts and database setup
-├── Utils/                # Helper functions for authentication
 ├── README.md             # Project documentation
 ```
 
