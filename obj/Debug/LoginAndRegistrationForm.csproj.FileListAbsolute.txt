@@ -1,0 +1,11 @@
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.exe.config
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.exe
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\bin\Debug\LoginAndRegistrationForm.pdb
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.AssemblyReference.cache
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Form1.resources
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Properties.Resources.resources
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.Signup.resources
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.GenerateResource.cache
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.csproj.CoreCompileInputs.cache
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.exe
+C:\Users\ka276\source\repos\LoginAndRegistrationForm\LoginAndRegistrationForm\obj\Debug\LoginAndRegistrationForm.pdb
