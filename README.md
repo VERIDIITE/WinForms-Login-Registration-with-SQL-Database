@@ -1,21 +1,20 @@
-![Alt text](1.png)
 
-# **WinForms Login & Registration with SQL Database**
+# **WinForms Employee Management System with SQL Database**
 
-Welcome to the **WinForms-LoginReg-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** with **user authentication** using an **SQL database**.
+Welcome to the **WinForms-EmployeeManagementSystem-SQL** repository! 🚀 This project demonstrates how to create a **C# Windows Forms application** for managing employees with **SQL database integration**.
+
 
 ---
 
-![Alt text](2.png)
 
 ## **📂 Folder Structure**  
 
 ```
-WinForms-LoginReg-SQL/
-├── LoginForm/            # Windows Forms login UI
-├── RegistrationForm/      # User registration UI
-├── Database/             # SQL scripts and database setup
-├── README.md             # Project documentation
+WinForms-EmployeeManagementSystem-SQL/
+├── EmployeeManagementForm/  # Main WinForms UI for managing employees
+├── Database/                # SQL scripts for employee database
+├── Utils/                   # Helper functions for CRUD operations
+├── README.md                # Project documentation
 ```
 
 ---
@@ -35,7 +34,6 @@ WinForms-LoginReg-SQL/
 - **C# (.NET Framework/.NET Core)**  
 - **Windows Forms (WinForms)**  
 - **SQL Server**  
-- **Entity Framework (Optional for ORM)**  
 
 ---
 
@@ -44,8 +42,8 @@ WinForms-LoginReg-SQL/
 ### **1️⃣ Clone the Repository**  
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WinForms-LoginReg-SQL.git
-cd WinForms-LoginReg-SQL
+git clone https://github.com/VERIDIITE/WinForms-EmployeeManagementSystem-SQL.git
+cd WinForms-EmployeeManagementSystem-SQL
 ```
 
 ## **👨‍💻 Author**  
