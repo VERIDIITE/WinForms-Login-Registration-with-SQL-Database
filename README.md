@@ -45,8 +45,8 @@ WinForms-LoginReg-SQL/
 ### **1️⃣ Clone the Repository**  
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/WinForms-LoginReg-SQL.git
-cd WinForms-LoginReg-SQL
+git clone https://github.com/YOUR_USERNAME/WinForms-Login-Registration-with-SQL-Database.git
+cd WinForms-Login-Registration-with-SQL-Database
 ```
 ---
 
